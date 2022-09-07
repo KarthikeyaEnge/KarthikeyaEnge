@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KarthikeyaEnge
 - 👀 I’m interested in Quantum computing
 - 🌱 I’m currently learning at CVR college of Engineering
-- 💞️ I’m looking to collaborate on web development
+- ⚡ Understand Your Limit, Let It Give You The Power To Surpass It. 
 - 📫 How to reach me email me(karthikeya.enge@gmail.com)
 
 <!---
