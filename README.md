@@ -1,4 +1,4 @@
--👋 Hi, I’m @KarthikeyaEnge
+- 👋 Hi, I’m @KarthikeyaEnge
 - 👀 I’m interested in Quantum computing, Artificial Intelligance
 - 🌱 I’m currently learning at CVR college of Engineering
 - ⚡ Understand Your Limit, Let It Give You The Power To Surpass It. 
