@@ -4,7 +4,7 @@
 - ⚡ Understand Your Limit, Let It Give You The Power To Surpass It. 
 - 📫 How to reach me email me(karthikeya.enge@gmail.com)
 
-(https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=radical)
+[![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=radical)]
 
 
 <!---
