@@ -1,8 +1,8 @@
-<center>
+<div align="center">
 
 ![header](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
 
-</center>
+</div>
 
 - 👋 Hi, I’m @KarthikeyaEnge
 - 👀 I’m interested in Quantum computing, Artificial Intelligance
