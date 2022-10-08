@@ -1,3 +1,9 @@
+<center>
+
+![header](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
+
+</center>
+
 - 👋 Hi, I’m @KarthikeyaEnge
 - 👀 I’m interested in Quantum computing, Artificial Intelligance
 - 🌱 I’m currently learning at CVR college of Engineering
