@@ -1,8 +1,8 @@
-<p align='center'>
+<div align='center'>
 
-![](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
+![Head](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
 
-</p>
+</div>
 
 - <b>👋 Hi, I’m @KarthikeyaEnge</b>
 - <b>👀 I’m interested in Quantum computing, Artificial Intelligance, Web Programming</b>
