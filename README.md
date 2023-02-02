@@ -31,11 +31,14 @@
 <br><br>
 
 ---
-
+<div align='center'>
+     
+![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=midnight-purple)
 |        VISITS          |        MY CONTRIBUTIONS    |
 |       :-------:        |          :---------:       |
 |![Visitor Count](https://profile-counter.glitch.me/karthikeyaEnge/count.svg)|![Karthikeya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=karthikeyaEnge&theme=midnight-purple\&hide_border=true)|
 
+</div>
 
 
 
