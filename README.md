@@ -10,7 +10,8 @@
 - <b>⚡ Understand Your Limit, Let It Give You The Power To Surpass It. </b>
 - <b>📫 How to reach me: email me(karthikeya.enge@gmail.com)</b>
 
----
+<br>
+
 ## ⚙️Tools and Languages:
 
 ![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,git,github)    
@@ -21,8 +22,9 @@
 
 <br><br>
 
----
-<div align='center'>
+## 🔥My Stats
+
+<div align='center'>     
      
 ![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=midnight-purple\&hide_border=true)
 |        VISITS          |        MY CONTRIBUTIONS    |
