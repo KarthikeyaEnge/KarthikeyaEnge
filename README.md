@@ -14,11 +14,11 @@
 
 ## ⚙️Tools and Languages:
 
-![Skills](https://skillicons.dev/icons?i=c,java,python,html,css,js,git,github)    
+![Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,git,github,matlab,md,vscode)    
 
 ### 📖Skills I'm Learning:
 
-![learning Skills](https://skillicons.dev/icons?i=django,nodejs,react,mongodb,express) 
+![learning Skills](https://skillicons.dev/icons?i=django,nodejs,react,mongodb,express,vite,redux) 
 
 <br><br>
 
