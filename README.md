@@ -13,6 +13,7 @@
 ## 👀My Interests:
 ![](https://img.shields.io/badge/-Artificial%20Intelligence-blue)
 ![](https://img.shields.io/badge/-Qunatum%20Computing-brightgreen)
+![](https://img.shields.io/badge/-Web%20Devleopment-orange)
 
 
 
