@@ -2,13 +2,23 @@
 
 ![Head](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
 
+<a href='karthikeya.enge@gmail.com'>
+
+![](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+
+</a>
+
 </div>
 
-- <b>👋 Hi, I’m @KarthikeyaEnge</b>
-- <b>👀 I’m interested in Quantum computing, Artificial Intelligance, Web Programming</b>
-- <b>🌱 I’m currently learning at CVR college of Engineering</b>
-- <b>⚡ Understand Your Limit, Let It Give You The Power To Surpass It. </b>
-- <b>📫 How to reach me: email me(karthikeya.enge@gmail.com)</b>
+## 👀My Interests:
+![](https://img.shields.io/badge/-Artificial%20Intelligence-blue)
+![](https://img.shields.io/badge/-Qunatum%20Computing-brightgreen)
+
+
+
+
+`I Just ❤️ To Explore The World And Beyond.`
+
 
 <br>
 
@@ -30,6 +40,12 @@
 |        VISITS          |        MY CONTRIBUTIONS    |
 |       :-------:        |          :---------:       |
 |![Visitor Count](https://profile-counter.glitch.me/karthikeyaEnge/count.svg)|![Karthikeya's GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=karthikeyaEnge&theme=midnight-purple\&hide_border=true)|
+
+<br>
+
+![](https://github.com/KarthikeyaEnge/KarthikeyaEnge/blob/b81671a5328fc7784040325631ea83c0550eed55/MY%20quote.png)
+
+
 
 </div>
 
