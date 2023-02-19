@@ -3,6 +3,12 @@
 ![Head](https://raw.githubusercontent.com/KarthikeyaEnge/KarthikeyaEnge/main/readme_gif.gif)
 
 
+<a href='mailto:karthikeya.enge@gmail.com'>
+
+![karthik](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white)
+
+</a>
+     
 </div>
 
 ## 👀My Interests:
