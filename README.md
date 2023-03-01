@@ -9,6 +9,10 @@
 
 </a>
      
+### Hi I'm Karthikeya - I'm a Web developer and a under-graduate, working to improve my skills in the (web-domain). I work on random projects personally to experiment, learn and also help my friends to learn.
+     
+### 🕸️I'm a Marvel Fan    
+     
 </div>
 
 ## 👀My Interests:
