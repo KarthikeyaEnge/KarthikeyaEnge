@@ -34,7 +34,7 @@
 
 ### 📖Skills I'm Learning:
 
-![learning Skills](https://skillicons.dev/icons?i=django,nodejs,react,mongodb,express,vite,redux) 
+![learning Skills](https://skillicons.dev/icons?i=django,nodejs,react,mongodb,express,vite,redux,tailwind) 
 
 <br><br>
 
