@@ -9,10 +9,8 @@
 
 </a>
      
-### Hi I'm Karthikeya - I'm a Web developer and a under-graduate, working to improve my skills in the (web-domain). I work on random projects personally to experiment, learn and also help my friends to learn.
-     
-### 🕸️I'm a Marvel Fan    
-     
+![about](https://github.com/KarthikeyaEnge/KarthikeyaEnge/blob/main/about.png)
+   
 </div>
 
 ## 👀My Interests:
@@ -30,11 +28,11 @@
 
 ## ⚙️Tools and Languages:
 
-![Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,git,github,matlab,md,vscode)    
+![Skills](https://skillicons.dev/icons?i=c,java,py,html,css,js,git,github,matlab,md,vscode,react,tailwind,vite)    
 
 ### 📖Skills I'm Learning:
 
-![learning Skills](https://skillicons.dev/icons?i=django,nodejs,react,mongodb,express,vite,redux,tailwind) 
+![learning Skills](https://skillicons.dev/icons?i=django,nodejs,mongodb,express,redux,firebase,next) 
 
 <br><br>
 
@@ -42,7 +40,7 @@
 
 <div align='center'>     
      
-![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=dark\&hide_border=true)
+![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=midnight-purple\&hide_border=true)
      
 |        VISITS          |        MY CONTRIBUTIONS    |
 |       :-------:        |          :---------:       |
