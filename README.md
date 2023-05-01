@@ -40,7 +40,7 @@
 
 <div align='center'>     
      
-![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=midnight-purple\&hide_border=true)
+![MY STATUS](https://github-readme-stats.vercel.app/api?username=karthikeyaEnge&show_icons=true&theme=midnight-purple&\&hide_border=true)
      
 |        VISITS          |        MY CONTRIBUTIONS    |
 |       :-------:        |          :---------:       |
