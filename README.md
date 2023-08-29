@@ -39,7 +39,7 @@
 
 ### 📖Skills I'm Learning:
 
-![learning Skills](https://skillicons.dev/icons?i=django,nodejs,mongodb,express,redux,firebase,next) 
+![learning Skills](https://skillicons.dev/icons?i=django,nodejs,mongodb,express,redux,firebase,next,astro) 
 
  </div>    
      
