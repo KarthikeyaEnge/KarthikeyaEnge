@@ -37,9 +37,11 @@
 
 ![Skills](https://skillicons.dev/icons?i=github,matlab,md,vscode,react,tailwind,vite)  
 
+![skills](https://skillicons.dev/icons?i=nodejs,mongodb,express)
+
 ### 📖Skills I'm Learning:
 
-![learning Skills](https://skillicons.dev/icons?i=django,nodejs,mongodb,express,redux,firebase,next,astro) 
+![learning Skills_1](https://skillicons.dev/icons?i=django,redux,firebase,next,astro,graphql) 
 
  </div>    
      
